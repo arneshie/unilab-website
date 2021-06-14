@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/unilab-website/precache-manifest.7190ed32dbc57642930549154fcd2bab.js"
+  "/unilab-website/precache-manifest.e31cad00425a2b933f4233f34dd7dd0e.js"
 );
 
 self.addEventListener('message', (event) => {

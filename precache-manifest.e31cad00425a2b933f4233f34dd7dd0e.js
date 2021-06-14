@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0f78dca45954978843e90df3effeaed1",
+    "revision": "182021c9fbe2961b35a2ffd823ea4f8b",
     "url": "/unilab-website/index.html"
   },
   {
-    "revision": "df1684994b5432688dff",
+    "revision": "6842ae5035c3d84d16cd",
     "url": "/unilab-website/static/css/main.474ddbc6.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/unilab-website/static/js/2.1442e098.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "df1684994b5432688dff",
-    "url": "/unilab-website/static/js/main.8c5906e9.chunk.js"
+    "revision": "6842ae5035c3d84d16cd",
+    "url": "/unilab-website/static/js/main.5d364164.chunk.js"
   },
   {
     "revision": "7e2a18bb71784d53e608",
